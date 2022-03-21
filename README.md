@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, fellas! 🐧
 
-<!--
-**wise-man-distracted/wise-man-distracted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍🍳 Chef & maître
+- 🧙 Wizard, fortune-teller and philosopher
+- 🧠 Loves psychology and psychiatry
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on small projects mostly related to oracles and divinatory methods 
+- 🌱 I’m currently learning Svelte, React, Python and university related stuff
+- 👯 I’m looking to collaborate on JS environment projects
+- 🤔 I’m looking for help with Angular
+- 💬 Ask me about front-end web development & CSS tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: magewelle@live.com
+- ⚡ Hire-me: https://www.linkedin.com/in/wise-man-distracted/
